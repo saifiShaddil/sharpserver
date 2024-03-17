@@ -1,0 +1,6 @@
+@sharpserver_HostAddress = http://localhost:5128
+
+GET {{sharpserver_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

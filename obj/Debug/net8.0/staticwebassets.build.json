@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9RNITSqsehg0lEEcNfWz6xJKdrejdtP4hxxhaFMBKM8=",
+  "Source": "sharpserver",
+  "BasePath": "_content/sharpserver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
